@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fa0b9ff6fe088018","type":"file","file":"Ideia Geral.md","x":-440,"y":-1600,"width":600,"height":1070},
+		{"id":"094675ec9dc34b3b","type":"file","file":"Game Design/Gameplay/Gameplay.md","x":320,"y":-2030,"width":615,"height":860,"color":"6"},
+		{"id":"a4b08d115c5e9b69","type":"file","file":"Game Design/Personagem/Player.md","x":1200,"y":-1500,"width":495,"height":760,"color":"4"},
+		{"id":"28b7a6d4bc7ef705","type":"file","file":"Game Design/Inimigos/Inimigos.md","x":480,"y":-960,"width":615,"height":530,"color":"1"}
+	],
+	"edges":[
+		{"id":"b8453c70c44753fb","fromNode":"fa0b9ff6fe088018","fromSide":"right","toNode":"a4b08d115c5e9b69","toSide":"left","color":"5"},
+		{"id":"256a06b5e9b6af29","fromNode":"fa0b9ff6fe088018","fromSide":"right","toNode":"28b7a6d4bc7ef705","toSide":"left","color":"5"},
+		{"id":"56c26697e630cd91","fromNode":"fa0b9ff6fe088018","fromSide":"right","toNode":"094675ec9dc34b3b","toSide":"left","color":"5"}
+	]
+}

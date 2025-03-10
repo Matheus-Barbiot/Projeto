@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "40421991d7c9cea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "840df540451d4b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a28052805ebd70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passo a Passo/1 - Mecânicas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Mecânicas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3106a3aa0427bdf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24195bb30473bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b788adc1d700ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3a2f83f3732ad69f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "477698f6f468163c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9e70e37ce3cad5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53df9e1d485c536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54175bbedb49750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Passo a Passo/1 - Mecânicas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1 - Mecânicas"
+            }
+          },
+          {
+            "id": "0568905be62ba328",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Passo a Passo/1 - Mecânicas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 1 - Mecânicas"
+            }
+          },
+          {
+            "id": "a9726e988e161189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "418474a5291db140",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Passo a Passo/1 - Mecânicas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1 - Mecânicas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9a28052805ebd70d",
+  "lastOpenFiles": [
+    "Passo a Passo/Wareframes/Pasted image 20250309194716.png",
+    "Passo a Passo/Wareframes/Pasted image 20250309190103.png",
+    "Passo a Passo/1 - Mecânicas.md",
+    "Game Design/Canvas_Game-Design.canvas",
+    "Passo a Passo/2 - Arte e Sons.md",
+    "Passo a Passo/Wareframes",
+    "Sem título.canvas",
+    "Game Design/Personagem/Player.md",
+    "Game Design/Inimigos/Inimigos.md",
+    "Game Design/Gameplay/Gameplay.md",
+    "Passo a Passo/3 - Finalização.md",
+    "Passo a Passo",
+    "Game Design/Inimigos/ref - inimigo.png",
+    "Game Design/Inimigos",
+    "Ideia Geral.md",
+    "Game Design/Gameplay",
+    "Game Design/Personagem/Ref - astronauta 2.png",
+    "Game Design/Personagem/Ref - astronauta 1.png",
+    "Game Design/Personagem",
+    "Game Design",
+    "Game Design/Gameplay/Gameplay Image - Super Mario Galaxy.png",
+    "Game Design/Gameplay/Gameplay Image - Sonic Lost World.png"
+  ]
+}
