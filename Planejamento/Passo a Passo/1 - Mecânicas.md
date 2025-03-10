@@ -7,15 +7,16 @@
 	- Scripts
 	- Sons
 - [x] Configurar Projeto.blend
-- [ ] Commit **Inicial**
+- [x] Commit **Inicial**
 
 ---
 # Sistemas de movimentação do player
 Aqui iremos usar uma psicologia diferenciada para o movimento do personagem, para conseguir replicar a forma base de como funcionaria a gravidade do mundo. Primeiro que, quem se move não é o jogador, é o planeta que gira em seu próprio eixo, dando a impressão de movimento.
+	%% As coisas acabaram mudando e eu preferi por um Empty que rotaciona o jogador ao invés do planeta, pois pensei que seria muito mais prático. %%
 
-- [ ] Criar o mundo, que gira no proprio eixo.
-- [ ] Câmera e configurar a vista.
-- [ ] Criar um cubo, como referência para o player.
+- [x] Criar o mundo, que gira no proprio eixo.
+- [x] Câmera e configurar a vista.
+- [x] Criar um cubo, como referência para o player.
 
 ![[Pasted image 20250309190103.png]]
 - - - 
