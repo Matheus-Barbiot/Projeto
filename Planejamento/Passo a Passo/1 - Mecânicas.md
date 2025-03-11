@@ -26,8 +26,8 @@ O player irá usar um ataque do estilo projétil, uma arma a laser ou algo do ti
 ## Como vai funcionar:
 Para que a gravidade do planeta seja respeitada e o projétil não seja jogado no espaço, o objeto do projetil será parenteado em um Empty que ficará no centro do planeta que irá se rotacionar, dando a impressão de gravidade.
 
-- [ ] Criar o sistema de tiro.
-- [ ] Criar o empty que simula a gravidade.
+- [x] Criar o sistema de tiro.
+- [x] Criar o empty que simula a gravidade.
 
 ![[Pasted image 20250309194716.png]]
 
