@@ -45,8 +45,8 @@ Por isso além de ter que tomar cuidado com os inimigos, o jogador terá que ter
 Os inimigos terão uma inteligência artificial bem simples, eles irão aparecer e ficarão parados ou andando pelo mapa, se o jogador estiver no campo de visão deles, eles irão caça-lo.
 
 ### Movimentos padrões:
-- [ ] Fazer o inimigo se mover apenas para frente (Y) 
-- [ ] Girar 90 ou -90 no eixo Z aleatoriamente.
+- [x] Fazer o inimigo se mover apenas para frente (Y) 
+- [x] Girar 90 ou -90 no eixo Z aleatoriamente.
 ### Se avistar o jogador:
 - [ ] Fazer o inimigo perseguir o jogador em uma velocidade maior que a padrão, mas não muito assustadora.
 - [ ] O inimigo some e tira vida do jogador caso colida com ele.
