@@ -18,7 +18,7 @@ class ShootMovement(bge.types.KX_PythonComponent):
         #difinição da variável direction:
         x = S - W
         z = D - A
-        self.direction = Vector([x ,0, z]) * 0.05
+        self.direction = Vector([x, 0, z]) * 0.05
         
         if self.direction == Vector([0,0,0]):
           self.direction = Vector([-0.05, 0,0])

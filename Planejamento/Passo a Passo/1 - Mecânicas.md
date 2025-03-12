@@ -38,8 +38,8 @@ O projétil só se destrói se colidir com algo, sendo assim:
 
 Por isso além de ter que tomar cuidado com os inimigos, o jogador terá que ter cuidado com os próprios projeteis. Isso evita que os jogadores encham o mundo de projeteis e sejam mais estratégicos na hora de atacar. 
 
-- [ ] Sistema de vida do jogador (3 vidas)
-- [ ] Programar as colisões do projetil
+- [x] Sistema de vida do jogador (3 vidas)
+- [x] Programar as colisões do projetil
 - - -
 # Inimigos:
 Os inimigos terão uma inteligência artificial bem simples, eles irão aparecer e ficarão parados ou andando pelo mapa, se o jogador estiver no campo de visão deles, eles irão caça-lo.
